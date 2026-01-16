@@ -116,21 +116,21 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-### Dashboard Overview
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
 
-(screenshots/dashboard.png)
+### Add New Asset
+![Add New Asset](screenshots/Add-New-Asset.png)
 
-### Asset Management Table
+### Internal Assets
+![Internal Assets](screenshots/Internal-Assets.png)
 
-![Asset Table](screenshots/asset-table.png)
+### OEM Testing Devices
+![OEM Testing Devices](screenshots/OEM-Testing-Devices.png)
 
-### Add / Edit Asset
+### Staff Management
+![Staff Management](screenshots/Staff-Management.png)
 
-![Asset Modal](screenshots/asset-modal.png)
-
-### Login & Role Selection
-
-![Login](screenshots/login.png)
 
 ---
 
@@ -183,6 +183,7 @@ See the `LICENSE` file for details.
 ```
 
 ```
+
 
 
 
