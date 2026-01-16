@@ -1,16 +1,4 @@
-Below is the **complete `README.md` file** you can **copy-paste directly** into your repository root.
-(No email block used — this is a GitHub README, as required.)
-
----
-
-```md
 # TelcoSec Asset Guardian 🔐📡
-
-![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)
-![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 **TelcoSec Asset Guardian** is a professional-grade **Asset Management Tool** built for **Telecom Security Testing Labs**.  
 It enables secure, traceable, and role-based management of **internal lab assets** and **OEM testing devices**.
@@ -146,10 +134,6 @@ http://localhost:5173
 
 ---
 
-## 🌍 Live Demo (GitHub Pages)
-
-🔗 **[https://YOUR_USERNAME.github.io/telcosec-asset-guardian/](https://YOUR_USERNAME.github.io/telcosec-asset-guardian/)**
-
 ### Deployment Steps
 
 ```bash
@@ -185,7 +169,7 @@ base: '/telcosec-asset-guardian/'
 
 ## 👨‍💻 Author
 
-**Saurav (Kakashi)**
+**sudoninja**
 Cybersecurity | Telecom Security Testing | R&D
 Built for real-world telecom lab operations
 
@@ -199,3 +183,4 @@ See the `LICENSE` file for details.
 ```
 
 ```
+
