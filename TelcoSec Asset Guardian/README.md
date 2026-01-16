@@ -118,7 +118,7 @@ http://localhost:5173
 
 ### Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+(screenshots/dashboard.png)
 
 ### Asset Management Table
 
@@ -183,5 +183,6 @@ See the `LICENSE` file for details.
 ```
 
 ```
+
 
 
